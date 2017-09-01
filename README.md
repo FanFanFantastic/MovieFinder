@@ -2,11 +2,11 @@
 a fully responsive movie finder built with HTML/CSS/Bootstrap/Jquery along with Imdb's open API
 
 <h1>FUll Screen Desktop</h1>
-![screen shot 2017-09-01 at 3 00 09 pm](https://user-images.githubusercontent.com/13370622/29989266-c0355f5c-8f26-11e7-8bdd-ebeaea4d8974.png)
+<img src="https://user-images.githubusercontent.com/13370622/29989266-c0355f5c-8f26-11e7-8bdd-ebeaea4d8974.png">
 <br>
 
 <h1>Mobile Site Background Removal</h1>
-![screen shot 2017-09-01 at 3 00 41 pm](https://user-images.githubusercontent.com/13370622/29989298-e6079740-8f26-11e7-9b59-cf15dd34c799.png)
+<img src="https://user-images.githubusercontent.com/13370622/29989298-e6079740-8f26-11e7-9b59-cf15dd34c799.png">
 <br>
 
 <h1>Fully Responsive Layout<h1>
