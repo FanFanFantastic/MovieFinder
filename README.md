@@ -16,5 +16,5 @@ a fully responsive movie finder built with HTML/CSS/Bootstrap/Jquery along with 
 <br>
 
 ![screen shot 2017-09-01 at 3 01 37 pm](https://user-images.githubusercontent.com/13370622/29989324-154b7e22-8f27-11e7-8737-8e4df8de4da8.png)
-<img style="text-align:center;" src="https://user-images.githubusercontent.com/13370622/29989326-16467804-8f27-11e7-9a87-b38b416cb7ea.png">
+<img style="display:block; margin:0 auto;" src="https://user-images.githubusercontent.com/13370622/29989326-16467804-8f27-11e7-9a87-b38b416cb7ea.png">
 
