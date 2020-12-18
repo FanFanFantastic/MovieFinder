@@ -1,0 +1,197 @@
+/*Common*/
+.container
+{
+    max-width: 1000px;
+}
+
+body {
+  word-break: break-all;
+}
+
+a,a:hover,a:visited 
+{
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 3.5em;
+  font-weight: normal;
+}
+
+
+/*Navagation*/
+
+.navbar-brand > span
+{
+    color: gold;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus 
+{
+  background: url(/assets/nav_background.png);
+}
+
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  background: url(/assets/nav_background.png);
+}
+
+
+
+.navbar-inverse 
+{
+    border-radius: 0;
+/*    background-color: transparent;*/
+    border: none;
+/*    background: url(/assets/nav_background.png);*/
+    background: rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+
+.navbar-inverse .navbar-brand {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.navbar li { color: #000 }
+
+
+.index_back img
+{
+    width: 100%;
+}
+
+.index_back
+{
+    position: absolute;
+    z-index: -100;
+    background: #999;
+    overflow: hidden;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    top: 0;
+    
+
+}
+
+.navbar_user
+{
+    padding-top: 12px;
+    font-size: 14px;
+}
+
+.navbar_user .hum {
+  padding: 1px;
+  float: right;
+}
+
+.navbar_user .hum a {
+  color: white;
+}
+
+.navbar_user .hum a:hover {
+  color: #b8b8b8;
+}
+
+.navbar_user .hum td {
+  padding-left: 10px;
+}
+
+#search_section
+{
+    height: 620px;
+}
+
+/*dynamic info*/
+
+
+#dynamic_info
+{
+    position: relative;
+    padding: 20px 0px 0px 0px;
+}
+
+#dynamic_info img
+{
+    width: 100%;
+}
+
+
+
+@media(min-width:960px)
+{
+    #dynamic_info .col-md-3 .well
+    {
+        height: 390px;
+    }
+
+    #dynamic_info .col-md-3 img
+    {
+        height: 260px;
+    }
+      
+}
+
+@media(max-width:960px)
+{
+    #dynamic_info a
+    {
+        width: 100%;
+    }
+      
+}
+
+
+
+/*info*/
+
+#info
+{
+    background-color: #5B9EA7;
+    color: aliceblue;
+    padding: 10px 20px;
+    line-height: 1.8;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+/*footer*/
+footer
+{
+    width: 100%;
+    height: 80px;
+    background-color: #f5f5dc;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+footer ul
+{
+    display: inline-block;
+    list-style: none;
+    
+}
+
+footer li
+{
+    float:left; 
+    padding: 0 10px;
+    font-size: 25px;
+
+}
