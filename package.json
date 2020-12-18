@@ -4,6 +4,7 @@
   "description": "a fully responsive movie finder built with HTML/CSS/Bootstrap/Jquery along with Imdb's open API",
   "main": "index.js",
   "scripts": {
+    "deploy":"gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
